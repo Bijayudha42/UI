@@ -29,6 +29,7 @@ function Post() {
             <div className="user pl-4 flex w-[95%] items-center">
               <Input placeholder="What's on your mind," />
               <Image
+                // onClick={}
                 className="h-8 w-8 ml-10"
                 src={Upload}
                 alt="Upload option icon"
