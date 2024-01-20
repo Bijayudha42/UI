@@ -12,9 +12,9 @@ import { Button } from "@/components/ui/button";
 
 function USerProfile() {
   return (
-    <div className="container">
-      <div className="profile">
-        <Card>
+    <div className="container my-10">
+      <div className="profile ">
+        <Card className="bg-[whitesmoke]">
           <CardHeader>
             <CardTitle>
               <div className="big-image">
